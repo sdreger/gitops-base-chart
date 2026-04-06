@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  base-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-04-06T11:22:55.575514+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 588e300eb895f0994214486679d5386f1544f0c1835b7e7321f406c25e11f88f
+    name: base-chart
+    type: application
+    urls:
+    - https://github.com/sdreger/gitops-base-chart/base-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-04-06T11:22:55.573686+02:00"
